@@ -1,0 +1,530 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "ae6e14c2-a371-11eb-85e4-40b076dccfad",
+    "deck_config_uuid": "ae6e22c8-a371-11eb-85e4-40b076dccfad",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": false,
+            "crowdanki_uuid": "ae6e22c8-a371-11eb-85e4-40b076dccfad",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.7
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 500,
+                "separate": true
+            },
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 365,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "Alveolar_lateral_approximant.ogg",
+        "Alveolar_nasal.ogg",
+        "Alveolar_tap.ogg",
+        "Alveolar_trill.ogg",
+        "Bilabial_nasal.ogg",
+        "En-us-eight.ogg",
+        "En-us-five.ogg",
+        "En-us-four.ogg",
+        "En-us-nine.ogg",
+        "En-us-one.ogg",
+        "En-us-seven.ogg",
+        "En-us-six.ogg",
+        "En-us-three.ogg",
+        "En-us-two.ogg",
+        "En-us-vowel.ogg",
+        "En-us-zero.wav",
+        "Palatal_approximant.ogg",
+        "Voiced_alveolar_plosive.ogg",
+        "Voiced_alveolar_sibilant.ogg",
+        "Voiced_bilabial_plosive.ogg",
+        "Voiced_labio-velar_approximant.ogg",
+        "Voiced_labiodental_fricative.ogg",
+        "Voiced_palato-alveolar_affricate.ogg",
+        "Voiced_palato-alveolar_sibilant.ogg",
+        "Voiced_velar_plosive.ogg",
+        "Voiceless_alveolar_plosive.ogg",
+        "Voiceless_alveolar_sibilant.ogg",
+        "Voiceless_bilabial_plosive.ogg",
+        "Voiceless_glottal_fricative.ogg",
+        "Voiceless_labiodental_fricative.ogg",
+        "Voiceless_palato-alveolar_affricate.ogg",
+        "Voiceless_palato-alveolar_sibilant.ogg",
+        "Voiceless_velar_plosive.ogg",
+        "unassigned.mp3"
+    ],
+    "name": "Major System",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\nh3 {\n font-size: 30px;\n}\n\nh4 {\n font-size: 15px;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Numeral",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sound IPA 1",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sound IPA 2",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sound IPA 3",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sound IPA 4",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Audio IPA 1",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Audio IPA 2",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Audio IPA 3",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Audio IPA 4",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Commonly associated letters",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Mnemonics",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Major System",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        1,
+                        5
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        2,
+                        6
+                    ]
+                ],
+                [
+                    2,
+                    "any",
+                    [
+                        3,
+                        7
+                    ]
+                ],
+                [
+                    3,
+                    "any",
+                    [
+                        4,
+                        8
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<h2><i>{{Sound IPA 1}}</i></h2>\n\n<hr>\n\n\n<h3>{{Numeral}}</h3>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IPA 1",
+                    "ord": 0,
+                    "qfmt": "<h2><i>{{Audio IPA 1}}{{Sound IPA 1}}</i></h2>\n\n<hr>\n\n<h3>?</h3>\n"
+                },
+                {
+                    "afmt": "<h2><i>{{Sound IPA 2}}</i></h2>\n\n<hr>\n\n\n<h3>{{Numeral}}</h3>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IPA 2",
+                    "ord": 1,
+                    "qfmt": "<h2><i>{{Audio IPA 2}}{{Sound IPA 2}}</i></h2>\n\n<hr>\n\n<h3>?</h3>\n"
+                },
+                {
+                    "afmt": "<h2><i>{{Sound IPA 3}}</i></h2>\n\n<hr>\n\n\n<h3>{{Numeral}}</h3>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IPA 3",
+                    "ord": 2,
+                    "qfmt": "<h2><i>{{Audio IPA 3}}{{Sound IPA 3}}</i></h2>\n\n<hr>\n\n<h3>?</h3>\n"
+                },
+                {
+                    "afmt": "<h2><i>{{Sound IPA 4}}</i></h2>\n\n<hr>\n\n\n<h3>{{Numeral}}</h3>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "IPA 4",
+                    "ord": 3,
+                    "qfmt": "<h2><i>{{Audio IPA 4}}{{Sound IPA 4}}</i></h2>\n\n<hr>\n\n<h3>?</h3>\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-zero.wav]0",
+                "/s/",
+                "/z/",
+                "",
+                "",
+                "[sound:Voiceless_alveolar_sibilant.ogg]",
+                "[sound:Voiced_alveolar_sibilant.ogg]",
+                "",
+                "",
+                "",
+                "<i>s</i>, soft <i>c</i>, <i>z</i>, <i>x</i> (in <i>xylophone</i>)"
+            ],
+            "guid": "pU{rw|R(ow",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-one.ogg]1",
+                "/t/",
+                "/d/",
+                "",
+                "",
+                "[sound:Voiceless_alveolar_plosive.ogg]",
+                "[sound:Voiced_alveolar_plosive.ogg]",
+                "",
+                "",
+                "<i>t</i>, <i>d</i>",
+                "Upper case <i>T</i> and <i>D</i>, as well as lower case <i>t</i> and <i>d</i> have <i>one</i> vertical stroke each, as with the numeral <i>1</i>. The alveolar stops /t/ and /d/ form a voiceless and voiced pair, as do the similar-sounding dental fricatives /θ/ and /ð/, though some variant systems may omit the latter pair."
+            ],
+            "guid": "cmc6$G6Tt#",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-two.ogg]2",
+                "/n/",
+                "",
+                "",
+                "",
+                "[sound:Alveolar_nasal.ogg]",
+                "",
+                "",
+                "",
+                "<i>n</i>",
+                "Upper case <i>N</i> and lower case <i>n</i> each have <i>two</i> vertical strokes and <i>two</i> points on the baseline."
+            ],
+            "guid": "fo!FO2YI+[",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-three.ogg]3",
+                "/m/",
+                "",
+                "",
+                "",
+                "[sound:Bilabial_nasal.ogg]",
+                "",
+                "",
+                "",
+                "<i>m</i>",
+                "<i></i>&nbsp;Lower case <i>m</i> has <i>three</i> vertical strokes. Both upper case <i>M</i> and lower case <i>m</i> each have <i>three</i> points on the baseline and look like the numeral <i>3</i> on its side."
+            ],
+            "guid": "tN2.b)_0^C",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-four.ogg]4",
+                "/r/",
+                "/ɾ/",
+                "",
+                "",
+                "[sound:Alveolar_trill.ogg]",
+                "[sound:Alveolar_tap.ogg]",
+                "",
+                "",
+                "<i>r</i>, <i>l</i> (in <i>colonel</i>)",
+                "<i>Four</i> ends with <i>r</i> (and /r/ in rhotic accents)."
+            ],
+            "guid": "g:tl%Y_-Sy",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-five.ogg]5",
+                "/l/",
+                "",
+                "",
+                "",
+                "[sound:Alveolar_lateral_approximant.ogg]",
+                "",
+                "",
+                "",
+                "<i>l</i>",
+                "<i></i> <i>L</i> is the Roman numeral for <i>5</i>0. Among the <i>five</i> digits of one's <i>l</i>eft hand, the thumb and index fingers also form an <i>L</i>."
+            ],
+            "guid": "/v7]|g2&c",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-six.ogg]6",
+                "/tʃ/",
+                "/dʒ/",
+                "/ʃ/",
+                "/ʒ/",
+                "[sound:Voiceless_palato-alveolar_affricate.ogg]",
+                "[sound:Voiced_palato-alveolar_affricate.ogg]",
+                "[sound:Voiceless_palato-alveolar_sibilant.ogg]",
+                "[sound:Voiced_palato-alveolar_sibilant.ogg]",
+                "<i>ch</i> (in <i>cheese</i> and <i>chef</i>), <i>j</i>, soft <i>g</i>, <i>sh</i>, <i>c</i> (in <i>cello</i> and <i>special</i>), <i>cz</i> (in <i>Czech</i>), <i>s</i> (in <i>tissue</i> and <i>vision</i>), <i>sc</i> (in <i>fascist</i>), <i>sch</i> (in <i>schwa</i> and <i>eschew</i>), <i>t</i> (in <i>ration</i> and <i>equation</i>), <i>tsch</i> (in <i>putsch</i>), <i>z</i> (in <i>seizure</i>)",
+                "Upper case <i>G</i> and lower case <i>g</i> look like the numeral <i>6</i> flipped horizontally and rotated 180° respectively. Lower case script <i>j</i> tends to have a lower loop, like the numeral <i>6</i>. In some serif fonts, upper case <i>CH</i>, <i>SH</i> and <i>ZH</i> each have <i>six</i> serifs. The postalveolar affricates /tʃ/ and /dʒ/ form a voiceless and voiced pair, as do the similar-sounding postalveolar fricatives /ʃ/ and /ʒ/. <i>CH</i>ur<i>ch</i> has six letters."
+            ],
+            "guid": "L;^!,J`sj3",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-seven.ogg]7",
+                "/k/",
+                "/ɡ/",
+                "",
+                "",
+                "[sound:Voiceless_velar_plosive.ogg]",
+                "[sound:Voiced_velar_plosive.ogg]",
+                "",
+                "",
+                "<i>k</i>, hard <i>c</i>, <i>q</i>, <i>ch</i> (in <i>loch</i>), hard <i>g</i>",
+                "Both upper case <i>K</i> and lower case <i>k</i> look like two small <i>7</i>s on their sides. In some fonts, the lower-right part of the upper case <i>G</i> looks like a <i>7</i>. <i>G</i> is also the 7th letter of the alphabet. The velar stops /k/ and /g/ form a voiceless and voiced pair."
+            ],
+            "guid": "eLScorZ2GC",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-eight.ogg]8",
+                "/f/",
+                "/v/",
+                "",
+                "",
+                "[sound:Voiceless_labiodental_fricative.ogg]",
+                "[sound:Voiced_labiodental_fricative.ogg]",
+                "",
+                "",
+                "<i>f</i>, <i>ph</i> (in <i>phone</i>), <i>v, gh (in laugh)</i>",
+                "<i></i>&nbsp;Lower case script <i>f</i>, which tends to have an upper and lower loop, looks like a <i>f</i>igure-<i>8</i>. The labiodental fricatives /f/ and /v/ form a voiceless and voiced pair."
+            ],
+            "guid": "z$N@*^_VAI",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:En-us-nine.ogg]9",
+                "/p/",
+                "/b/",
+                "",
+                "",
+                "[sound:Voiceless_bilabial_plosive.ogg]",
+                "[sound:Voiced_bilabial_plosive.ogg]",
+                "",
+                "",
+                "<i>p</i>, <i>b</i>",
+                "Upper case <i>P</i> and lower case <i>p</i> look like the numeral <i>9</i> flipped horizontally. Lower case <i>b</i> looks like the numeral <i>9</i> turned 180°. The labial stops /p/ and /b/ form a voiceless and voiced pair."
+            ],
+            "guid": "f_P/p!M8j.",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:unassigned.mp3]Unassigned",
+                "/h/",
+                "/j/",
+                "/w/",
+                "Vowels",
+                "[sound:Voiceless_glottal_fricative.ogg]",
+                "[sound:Palatal_approximant.ogg]",
+                "[sound:Voiced_labio-velar_approximant.ogg]",
+                "[sound:En-us-vowel.ogg]",
+                "<i>h</i>, <i>y</i>, <i>w</i>, <i>a</i>, <i>e</i>, <i>i</i>, <i>o</i>, <i>u</i>, silent letters, <i>c</i> (in <i>packet</i> and <i>chutzpah</i>), <i>d</i> (in <i>judge</i>), <i>j</i> (in <i>Hallelujah</i> and <i>jalapeno</i>), <i>ll</i> (in <i>tortilla</i>), the first <i>p</i> in <i>sapphire</i>, <i>t</i> (in <i>match</i>), one of doubled letters in most contexts",
+                "Vowel sounds, semivowels (/j/ and /w/) and /h/ do not correspond to any number. They can appear anywhere in a word without changing its number value."
+            ],
+            "guid": "bFx.;^flh$",
+            "note_model_uuid": "ae6f8f96-a371-11eb-85e4-40b076dccfad",
+            "tags": [
+                "Mnemonics::Systems::MajorSystem"
+            ]
+        }
+    ]
+}
